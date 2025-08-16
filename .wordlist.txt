@@ -1072,4 +1072,4 @@ permissionless
 Web3
 Staking
 Validator
-Crosscahin
+Cross-chain
