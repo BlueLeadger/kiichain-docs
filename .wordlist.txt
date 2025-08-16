@@ -1069,3 +1069,7 @@ El
 ICS
 SVM
 permissionless
+Web3
+Staking
+Validator
+Crosscahin
