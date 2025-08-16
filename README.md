@@ -8,7 +8,7 @@ description: >-
 
 ### What is KIIEX
 
-KIIEX is an on-chain FX desk powering global payments, trading and finance solutions in an easy-to-use platform designed for everyone. Users, businesses or builders can use KIIEX by signing up for an account or connecting to APIs. KIIEX differs from other traditional platforms by its hybrid approach of sourcing liquidity and maintaining balances on-chain exposed to local currencies. KIIEX supports fiat swaps and pay-ins/pay-outs via the pricing of local, non-dollar stablecoins and other tokenized real-world assets.&#x20;
+KIIEX is an on-chain FX desk powering global payments, trading, and finance solutions through an easy-to-use platform designed for everyone, enabling seamless cross-border transactions for users worldwide.. Users, businesses or builders can use KIIEX by signing up for an account or connecting to APIs. KIIEX differs from other traditional platforms by its hybrid approach of sourcing liquidity and maintaining balances on-chain exposed to local currencies. KIIEX supports fiat swaps and pay-ins/pay-outs via the pricing of local, non-dollar stablecoins and other tokenized real-world assets.&#x20;
 
 ### Hybrid Matching Engine
 
