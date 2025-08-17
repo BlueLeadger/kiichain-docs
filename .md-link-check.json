@@ -1,7 +1,7 @@
 {
     "retryOn429": true,
     "retryCount": 5,
-    "fallbackRetryDelay": "60s",
+    "fallbackRetryDelay": "90s",
     "ignorePatterns": [
         {
             "pattern": "broken-reference"
